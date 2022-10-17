@@ -1,2 +1,2 @@
-# React redux-toolkit simple application
+# React typescript redux-toolkit simple application
 
